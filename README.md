@@ -14,29 +14,32 @@ TK CarHire is a personal car rental website project developed to improve HTML, C
 *Main landing page with navigation and hero section*
 <br></br>
 
+<br></br>
 ### 💰 Pricing Page
 ![Pricing](images/fiyatlar.png)
 *Detailed pricing information for different vehicle categories*
 <br></br>
 
+<br></br>
 ### ℹ️ About Us Page
 ![About](images/hakkında.png)
+![Reviews](images/yorum.png)
+*Customer testimonials and feedback*
+<br></br>
+
 *Information about our company and services*
 <br></br>
 
+<br></br>
 ### 🔧 Services Page
 ![Services](images/hizmetler.png)
 *Complete list of our rental services and features*
 <br></br>
 
+<br></br>
 ### 📞 Contact Page
 ![Contact](images/iletişim.png)
 *Contact form and location information*
-<br></br>
-
-### ⭐ Reviews Page
-![Reviews](images/yorum.png)
-*Customer testimonials and feedback*
 <br></br>
 
 </div>
@@ -128,12 +131,12 @@ This project helps develop skills in:
 
 ## 📈 Future Enhancements
 
-- [ ] Add booking system functionality
-- [ ] Implement price calculator
-- [ ] Add customer review system
-- [ ] Include map integration for pickup locations
-- [ ] Add vehicle availability checker
-- [ ] Implement search and filter functionality
+-  Add booking system functionality
+-  Implement price calculator
+-  Add customer review system
+-  Include map integration for pickup locations
+-  Add vehicle availability checker
+-  Implement search and filter functionality
 
 ## 🤝 Contributing
 
