@@ -139,3 +139,5 @@ This project is for educational purposes and personal skill development.
 ---
 
 **Note**: This is a learning project focused on improving HTML, CSS, and JavaScript skills. The carousel feature enhances the visual appeal and provides hands-on experience with interactive web components.
+
+For technical support or collaboration opportunities, please contact toprakkamburoglu@gmail.com
