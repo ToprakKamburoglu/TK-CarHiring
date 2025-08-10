@@ -8,30 +8,36 @@ TK CarHire is a personal car rental website project developed to improve HTML, C
 
 <!-- Image carousel showing different pages -->
 <div align="center">
-  
+<br></br>
 ### 🏠 Homepage
 ![Homepage](images/anasayfa.png)
 *Main landing page with navigation and hero section*
+<br></br>
 
 ### 💰 Pricing Page
 ![Pricing](images/fiyatlar.png)
 *Detailed pricing information for different vehicle categories*
+<br></br>
 
 ### ℹ️ About Us Page
 ![About](images/hakkında.png)
 *Information about our company and services*
+<br></br>
 
 ### 🔧 Services Page
 ![Services](images/hizmetler.png)
 *Complete list of our rental services and features*
+<br></br>
 
 ### 📞 Contact Page
 ![Contact](images/iletişim.png)
 *Contact form and location information*
+<br></br>
 
 ### ⭐ Reviews Page
 ![Reviews](images/yorum.png)
 *Customer testimonials and feedback*
+<br></br>
 
 </div>
 
@@ -87,71 +93,6 @@ images/ (Screenshots)
 └── yorum.png           # Reviews page screenshot
 ```
 
-## 🎠 Interactive README Carousel
-
-You can also create an interactive carousel for this README using GitHub Pages or any markdown viewer that supports HTML:
-
-```html
-<!-- Add this to your README.md for interactive carousel -->
-<div style="position: relative; max-width: 800px; margin: 0 auto;">
-  <div id="screenshot-carousel" style="position: relative; overflow: hidden; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    
-    <!-- Slide 1 -->
-    <div class="slide active" style="display: block;">
-      <img src="images/anasayfa.png" alt="Homepage" style="width: 100%; height: auto; display: block;">
-      <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.7)); color: white; padding: 20px; text-align: center;">
-        <h3 style="margin: 0;">🏠 Homepage</h3>
-        <p style="margin: 5px 0 0 0;">Main landing page with navigation and hero section</p>
-      </div>
-    </div>
-
-    <!-- Slide 2 -->
-    <div class="slide" style="display: none;">
-      <img src="images/fiyatlar.png" alt="Pricing" style="width: 100%; height: auto; display: block;">
-      <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.7)); color: white; padding: 20px; text-align: center;">
-        <h3 style="margin: 0;">💰 Pricing Page</h3>
-        <p style="margin: 5px 0 0 0;">Detailed pricing information for different vehicle categories</p>
-      </div>
-    </div>
-
-    <!-- Navigation buttons -->
-    <button onclick="changeSlide(-1)" style="position: absolute; top: 50%; left: 15px; transform: translateY(-50%); background: rgba(0,0,0,0.5); color: white; border: none; padding: 15px 20px; cursor: pointer; border-radius: 5px; font-size: 16px;">❮</button>
-    <button onclick="changeSlide(1)" style="position: absolute; top: 50%; right: 15px; transform: translateY(-50%); background: rgba(0,0,0,0.5); color: white; border: none; padding: 15px 20px; cursor: pointer; border-radius: 5px; font-size: 16px;">❯</button>
-
-    <!-- Indicators -->
-    <div style="text-align: center; padding: 15px; background: rgba(0,0,0,0.1);">
-      <span onclick="currentSlide(1)" style="display: inline-block; width: 12px; height: 12px; background: #fff; border-radius: 50%; margin: 0 5px; cursor: pointer;"></span>
-      <span onclick="currentSlide(2)" style="display: inline-block; width: 12px; height: 12px; background: rgba(255,255,255,0.5); border-radius: 50%; margin: 0 5px; cursor: pointer;"></span>
-      <!-- Add more indicators for each page -->
-    </div>
-  </div>
-</div>
-
-<script>
-let slideIndex = 0;
-const slides = document.querySelectorAll('.slide');
-
-function showSlide(n) {
-  slides.forEach(slide => slide.style.display = 'none');
-  slides[n].style.display = 'block';
-}
-
-function changeSlide(n) {
-  slideIndex += n;
-  if (slideIndex >= slides.length) slideIndex = 0;
-  if (slideIndex < 0) slideIndex = slides.length - 1;
-  showSlide(slideIndex);
-}
-
-function currentSlide(n) {
-  slideIndex = n - 1;
-  showSlide(slideIndex);
-}
-
-// Auto advance every 4 seconds
-setInterval(() => changeSlide(1), 4000);
-</script>
-```
 
 ## 🛠️ Technologies Used
 
