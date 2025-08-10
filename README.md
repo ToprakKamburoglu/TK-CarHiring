@@ -27,10 +27,6 @@ TK CarHire is a personal car rental website project developed to improve HTML, C
 *Customer testimonials and feedback*
 <br></br>
 
-*Information about our company and services*
-<br></br>
-
-<br></br>
 ### 🔧 Services Page
 ![Services](images/hizmetler.png)
 *Complete list of our rental services and features*
