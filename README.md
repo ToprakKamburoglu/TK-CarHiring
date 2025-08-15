@@ -4,7 +4,7 @@ TK CarHire is a personal car rental website project developed to improve HTML, C
 
 
 <!-- Image carousel showing different pages -->
-<br><</br>
+<br></br>
 ### 🏠 Homepage
 ![Homepage](images/anasayfa.png)
 <br></br>
