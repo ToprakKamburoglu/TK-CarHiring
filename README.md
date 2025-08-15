@@ -2,31 +2,31 @@
 
 TK CarHire is a personal car rental website project developed to improve HTML, CSS, and JavaScript skills. This project features a modern, responsive design with interactive elements and showcases various car rental services.
 
+<br></br>
 
 <!-- Image carousel showing different pages -->
-
 
 ### 🏠 Homepage
 ![Homepage](images/anasayfa.png)
 <br></br>
 
-<br></br>
+
 ### 💰 Pricing Page
 ![Pricing](images/fiyatlar.png)
 <br></br>
 
-<br></br>
+
 ### ℹ️ About Us Page
 ![About](images/hakkında.png)
 ![Reviews](images/yorum.png)
 <br></br>
 
-<br></br>
+
 ### 🔧 Services Page
 ![Services](images/hizmetler.png)
 <br></br>
 
-<br></br>
+
 ### 📞 Contact Page
 ![Contact](images/iletişim.png)
 
