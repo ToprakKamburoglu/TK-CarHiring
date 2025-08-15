@@ -128,7 +128,7 @@ This is a personal learning project, but suggestions and feedback are always wel
 
 ## 📄 License
 
-This project is for educational purposes and personal skill development.
+This project is for educational purposes and personal skill development and it is also licensed under the [MIT License](LICENSE).
 
 ---
 
